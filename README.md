@@ -40,7 +40,7 @@ Collected bus data is transformed into pandas DataFrames and stored in a newly c
 ### Interactive Web App:
 Built with Streamlit, the app provides a user-friendly interface for searching bus routes and viewing details like departure times, bustype and prices.
 
-## Application Screenshot
+### Application Screenshot
 
 ![redbus_app screenshot](https://github.com/user-attachments/assets/3c4c788a-d1c7-4bf3-a948-1b7fd3801230)
 
