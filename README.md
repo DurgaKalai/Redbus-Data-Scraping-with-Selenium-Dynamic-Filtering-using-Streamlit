@@ -11,5 +11,6 @@ Data Visualization: Build a Streamlit application to visualize the extracted dat
 Enhance User Experience: Provide an intuitive platform for users to analyze bus travel data and make informed decisions.
 
 Support Transportation Providers: Equip stakeholders with valuable insights to improve operational efficiency and strategic planning.
-
+## Requirements
+This project requires Python 3.x as the programming language, Jupyter Notebook for interactive coding, and MySQL Server for data storage. Visual Studio Code will be used as the code editor, while the Chrome browser is needed for web scraping. Selenium WebDriver will automate browser actions, and Streamlit will be utilized for data visualization.
 
